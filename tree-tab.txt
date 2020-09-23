@@ -1,0 +1,167 @@
+Food1
+	Vegetables
+		Beans
+		Peas
+		Lettuce
+		Desserts
+			Ice Cream
+			Cookies
+				Peanut Butter Chip
+				Chocolate Chip
+				Desserts
+					Ice Cream
+					Cookies
+						Peanut Butter Chip
+						Chocolate Chip
+					Desserts
+						Ice Cream
+						Cookies
+							Peanut Butter Chip
+							Chocolate Chip
+	Desserts
+		Ice Cream
+		Cookies
+			Peanut Butter Chip
+			Chocolate Chip
+		Cake
+		Desserts
+			Ice Cream
+			Cookies
+				Peanut Butter Chip
+				Chocolate Chip
+			Cake
+	Fruit
+		Bananas
+		Peaches
+Sports1
+	Volleyball
+	Baseball
+Food2
+	Vegetables
+		Beans
+		Peas
+		Lettuce
+	Desserts
+		Ice Cream
+		Cookies
+			Peanut Butter Chip
+			Chocolate Chip
+		Desserts
+			Ice Cream
+			Cookies
+				Peanut Butter Chip
+				Chocolate Chip
+			Cake
+		Food
+			Vegetables
+				Beans
+				Peas
+				Lettuce
+			Desserts
+				Ice Cream
+				Cookies
+					Peanut Butter Chip
+					Chocolate Chip
+				Cake
+				Desserts
+					Ice Cream
+					Cookies
+						Peanut Butter Chip
+						Chocolate Chip
+					Cake
+			Fruit
+				Bananas
+	Fruit
+		Bananas
+		Peaches
+Sports2
+	Volleyball
+	Baseball
+		Sports
+			Volleyball
+			Baseball
+		Food
+			Vegetables
+				Beans
+				Peas
+				Lettuce
+			Desserts
+				Ice Cream
+				Cookies
+					Peanut Butter Chip
+					Chocolate Chip
+				Desserts
+					Ice Cream
+					Cookies
+						Peanut Butter Chip
+						Chocolate Chip
+					Cake
+				Food
+					Vegetables
+						Beans
+						Peas
+						Lettuce
+					Desserts
+						Ice Cream
+						Cookies
+							Peanut Butter Chip
+							Chocolate Chip
+						Cake
+						Desserts
+							Ice Cream
+							Cookies
+								Peanut Butter Chip
+								Chocolate Chip
+							Cake
+					Fruit
+						Bananas
+			Fruit
+				Bananas
+				Peaches
+		Sports
+			Volleyball
+			Baseball
+Sports3
+	Volleyball
+	Baseball
+Food3
+	Vegetables
+		Beans
+		Peas
+		Lettuce
+	Desserts
+		Ice Cream
+		Cookies
+			Peanut Butter Chip
+			Chocolate Chip
+		Desserts
+			Ice Cream
+			Cookies
+				Peanut Butter Chip
+				Chocolate Chip
+			Cake
+		Food
+			Vegetables
+				Beans
+				Peas
+				Lettuce
+			Desserts
+				Ice Cream
+				Cookies
+					Peanut Butter Chip
+					Chocolate Chip
+				Cake
+				Desserts
+					Ice Cream
+					Cookies
+						Peanut Butter Chip
+						Chocolate Chip
+					Cake
+			Fruit
+				Bananas
+	Fruit
+		Bananas
+		Peaches
+Sports4
+	Volleyball
+	Baseball
